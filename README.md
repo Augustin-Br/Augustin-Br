@@ -49,9 +49,6 @@ Here are some of the technologies I work with:
 
 <p align="center">
   <a href="https://github.com/Augustin-Br">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Augustin-Br&show_icons=true&theme=dracula&rank_icon=github" />
-  </a>
-  <a href="https://github.com/Augustin-Br">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustin-Br&layout=compact&theme=dracula" />
   </a>
 </p>
