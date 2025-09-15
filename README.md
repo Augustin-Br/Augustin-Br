@@ -1,14 +1,15 @@
 ### Hi there, I'm Augustin 👋
 
-I'm a Cybersecurity Engineering student at ESIEE Paris, passionate about offensive security and automation. I enjoy solving technical problems and spend my free time on platforms like Hack The Box and TryHackMe. 
+I'm a Cybersecurity Engineering student at ESIEE Paris, passionate about offensive security and automation. I enjoy solving technical problems and spend my free time on platforms like Hack The Box and TryHackMe. I document my projects and share my findings on my personal blog.
 
 ---
 
 #### 🔗 Connect with me
 
-- **LinkedIn**: [linkedin.com/in/augustin-brenner](https://www.linkedin.com/in/augustin-brenner)
-- **Hack The Box**: [app.hackthebox.com/profile/130703](https://app.hackthebox.com/profile/130703)
-- **TryHackMe**: [tryhackme.com/p/Augustin.Br](https://tryhackme.com/p/Augustin.Br)
+- ✍️ **Blog**: [augustin-br.vercel.app](https://augustin-br.vercel.app)
+- 💼 **LinkedIn**: [linkedin.com/in/augustin-brenner](https://www.linkedin.com/in/augustin-brenner)
+- 💻 **Hack The Box**: [app.hackthebox.com/profile/130703](https://app.hackthebox.com/profile/130703)
+- 🕹️ **TryHackMe**: [tryhackme.com/p/Augustin.Br](https://tryhackme.com/p/Augustin.Br)
 
 #### 🛠️ My Tech Stack
 
@@ -32,11 +33,11 @@ Here are some of the technologies I work with:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" width="48" height="48" alt="Wireshark" />
       <br>Wireshark
     </td>
