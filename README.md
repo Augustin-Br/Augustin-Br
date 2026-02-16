@@ -43,13 +43,3 @@ Here are some of the technologies I work with:
     </td>
   </tr>
 </table>
-
----
-
-#### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Augustin-Br">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustin-Br&layout=compact&theme=dracula" />
-  </a>
-</p>
