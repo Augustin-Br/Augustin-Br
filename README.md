@@ -8,7 +8,7 @@ I'm a Cybersecurity Engineering student at ESIEE Paris, passionate about offensi
 
 - ✍️ **Blog**: [augustinbrenner.com](https://augustinbrenner.com)
 - 💼 **LinkedIn**: [linkedin.com/in/augustin-brenner](https://www.linkedin.com/in/augustin-brenner)
-- 💻 **Hack The Box**: [app.hackthebox.com/profile/130703](https://app.hackthebox.com/profile/130703)
+- 💻 **Hack The Box**: [app.hackthebox.com/profile/130703](https://app.hackthebox.com/public/users/130703)
 - 🕹️ **TryHackMe**: [tryhackme.com/p/Augustin.Br](https://tryhackme.com/p/Augustin.Br)
 
 #### 🛠️ My Tech Stack
