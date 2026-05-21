@@ -1,6 +1,8 @@
 ### Hi there, I'm Augustin 👋
 
-I'm a Cybersecurity Engineering student at ESIEE Paris, passionate about offensive security and automation. I enjoy solving technical problems and spend my free time on platforms like Hack The Box and TryHackMe. I document my projects and share my findings on my personal blog.
+I'm a Cybersecurity Engineering student at ESIEE Paris, focusing on AI Security and DevSecOps. I enjoy building security labs, automating offensive and defensive workflows, and exploring how to secure LLM-powered applications and AI agents.
+
+I spend my free time working on personal security projects, Hack The Box and TryHackMe challenges, and documenting what I learn on my blog.
 
 ---
 
